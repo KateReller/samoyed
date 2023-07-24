@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta content="This is a samoyed." property="og:title" />
+		<meta content="She is a mom." property="og:description" />
+		<meta content="https://samoyed.mom/" property="og:url" />
+		<meta content="/img/mary_icon.webp" property="og:image" />
+		<meta content="#FFFFFF" data-react-helmet="true" name="theme-color" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="twitter:title" content="This is a samoyed." />
+		<meta name="twitter:description" content="She is a mom." />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:image" content="/img/mary_icon.webp" />
+		<meta name="description" content="A mom's webpage.">
+		<meta name="robots" content="noindex">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="/css/page.min.css">
+		<link rel="icon" type="image/x-icon" href="/img/mary_icon.webp">
+		<title>Samoyed</title>
+	</head>
+	<body>
+		<h1>This is a samoyed.</h1>
+			<img src="/img/mary_icon.webp" alt="Icon of Mary." title="A mom." style="width: 50%;" width="541" height="447">
+		<h1>She is a mom.</h1>
+			<img src="/img/MKMR.webp" alt="My pronouns." title="Pronouns." style="max-width: 100%;" width="1539" height="944">
+	</body>
+</html>
+
