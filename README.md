@@ -15,5 +15,5 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/KateReller/samoyed/main/img/MKMR.webp" alt="My pronouns." title="Pronouns.">
+<iframe src="https://en.pronouns.page/card/@MKMR?embed=true" style="border:0; width:100%; height:400px;" loading="lazy" referrerpolicy="no-referrer"><a href="https://en.pronouns.page/@MKMR" target="_blank" rel="noopener">@MKMR</a></iframe>
 </p>
